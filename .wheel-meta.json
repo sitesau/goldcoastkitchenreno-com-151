@@ -1,0 +1,19 @@
+{
+  "wheel_id": 354,
+  "structure": "umbrella",
+  "slug": "goldcoastkitchenreno-com-151",
+  "project": "kitchen-renovations-gold-coast-1c9fc00b7c86198bacf33b3f816d5c2a",
+  "parent_t1_ref": "goldcoastkitchenreno.com-004",
+  "node_role": "buffer",
+  "money_target": "goldcoastkitchenreno.com.au",
+  "primary_kw": "kitchen renovations gold coast",
+  "intended_url": "https://aumedia.neocities.org/kitchen-renovations-gold-coast-1c9fc00b7c86198bacf33b3f816d5c2a/",
+  "writeback_nonce": "401bae283b0cf1dd",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/kitchen-renovations-gold-coast-004/",
+      "anchor": "kitchen renovations gold coast",
+      "rel": "follow"
+    }
+  ]
+}
